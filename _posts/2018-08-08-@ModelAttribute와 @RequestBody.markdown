@@ -92,7 +92,7 @@ Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
 
 요것때매  거진 하루를 다날려먹었다.
 
-매우 어처구니없게 `@RequestBody` 대신 `@Modelatrribute` 를 사용하니 잘 동작한다.
+매우 어처구니없게 `@RequestBody` 대신 `@ModelAttribute` 를 사용하니 잘 동작한다.
 
 
 
