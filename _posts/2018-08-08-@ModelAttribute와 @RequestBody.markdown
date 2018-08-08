@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "@ModelAttribute와 @RequestBody.markdown"
+title:      "@ModelAttribute와 @RequestBody"
 date:       2018-08-08 12:00:00
 author:     "Nekisse"
 header-img: "img/post-bg-02.jpg"
