@@ -1,3 +1,11 @@
+---
+layout:     post
+title:      "@ModelAttribute와 @RequestBody.markdown"
+date:       2018-08-08 12:00:00
+author:     "Start Bootstrap"
+header-img: "img/post-bg-02.jpg"
+---
+
 2018-08-08
 
 **html form 태그를 사용해서 JPA repository에 데이터를 넣고 빼는 코드를 만들고있다**
@@ -63,13 +71,13 @@ public class BoardService {
 
 ```
 
-Controller의  
+Controller의
 
 boardList()의 경우 문제없이 JpaRepository에서 정보를 빼 서 보여준다.
 
-createBoard() 가문제다 .  폼태그에서 전달받은 데이터들을 
+createBoard() 가문제다 .  폼태그에서 전달받은 데이터들을
 
- 참여하고있는  프로젝트에서 계속 써왔던`@RequestBody` 를 사용해서 전달받고 저장을 시키려는데 
+ 참여하고있는  프로젝트에서 계속 써왔던`@RequestBody` 를 사용해서 전달받고 저장을 시키려는데
 
 ```html
 Whitelabel Error Page
@@ -89,10 +97,6 @@ Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported
 
 
 해결은 했는데 다시한번 알아 보아야 겠다.
-
-
-
-
 
 <https://code-examples.net/en/q/244d99f>
 
