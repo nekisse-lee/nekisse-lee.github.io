@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "Springboot Mustache 설정"
+subtitle:   ""
 date:       2018-08-29 12:00:00
 author:     "Nekisse"
 header-img: "img/post-bg-02.jpg"
@@ -11,12 +12,10 @@ header-img: "img/post-bg-02.jpg"
 pom.xml에 추가
 
 `
-
 <dependency>
 		<groupId>org.springframework.boot</groupId>
         	<artifactId>spring-boot-starter-mustache</artifactId>
 </dependency>
-
 `
 
 
@@ -41,7 +40,6 @@ pom.xml에 추가
      request-context-attribute:
      suffix: .html
      spring.mustache.view-names:
-
 `
 
-​            
+​
