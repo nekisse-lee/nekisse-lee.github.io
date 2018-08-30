@@ -11,12 +11,13 @@ header-img: "img/post-bg-02.jpg"
 
 pom.xml에 추가
 
-`
+```
 <dependency>
-		<groupId>org.springframework.boot</groupId>
-        	<artifactId>spring-boot-starter-mustache</artifactId>
-</dependency>
-`
+ ​		<groupId>org.springframework.boot</groupId>
+         	<artifactId>spring-boot-starter-mustache</artifactId>
+ </dependency>
+```
+
 
 
 
@@ -24,7 +25,7 @@ pom.xml에 추가
 
 
 
-`
+````
   mustache:
      allow-request-override: false
      allow-session-override: false
@@ -33,13 +34,13 @@ pom.xml에 추가
      check-template-location: true
      content-type: text/html
      enabled: true
-     expose-request-attributes: false
+     expose-reques˚t-attributes: false
      expose-session-attributes: false
      expose-spring-macro-helpers: true
      spring.mustache.prefix=classpath: /templates/
      request-context-attribute:
      suffix: .html
      spring.mustache.view-names:
-`
+````
 
 ​
