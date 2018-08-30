@@ -13,7 +13,7 @@ pom.xml에 추가
 
 ```
 <dependency>
- ​		<groupId>org.springframework.boot</groupId>
+ 		<groupId>org.springframework.boot</groupId>
          	<artifactId>spring-boot-starter-mustache</artifactId>
  </dependency>
 ```
