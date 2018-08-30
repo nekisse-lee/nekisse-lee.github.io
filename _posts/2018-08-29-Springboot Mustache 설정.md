@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Springboot Mustache 설정"
-subtitle:   ""
+title:      "Springboot Mustache .yml 설정"
+subtitle:   "스프링부트에서 Mustache를 사용하기위한 설정"
 date:       2018-08-29 12:00:00
 author:     "Nekisse"
 header-img: "img/post-bg-02.jpg"
