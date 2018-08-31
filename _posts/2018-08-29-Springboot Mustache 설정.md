@@ -23,9 +23,7 @@ pom.xml에 추가
 
 .yml 에 추가
 
-
-
-````
+```
   mustache:
      allow-request-override: false
      allow-session-override: false
@@ -41,6 +39,6 @@ pom.xml에 추가
      request-context-attribute:
      suffix: .html
      spring.mustache.view-names:
-````
+```
 
 ​
