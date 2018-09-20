@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "2018-09-20-자료구조 Data Structure"
+title:      "2018-09-20 자료구조 Data Structure"
 date:       2018-09-20 12:00:00
 author:     "Nekisse"
 header-img: "img/post-bg-02.jpg"
@@ -60,7 +60,7 @@ header-img: "img/post-bg-02.jpg"
 - 트리(Tree)
 
 - 그래프(Graph)
-
+![arraylist_linkedlist](/Users/nekisse/Documents/gitblog/img/2018-09-20/arraylist_linkedlist.png)
 
 
 
