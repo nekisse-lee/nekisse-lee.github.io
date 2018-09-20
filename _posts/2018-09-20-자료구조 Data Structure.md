@@ -60,7 +60,7 @@ header-img: "img/post-bg-02.jpg"
 - 트리(Tree)
 
 - 그래프(Graph)
-![arraylist_linkedlist](/Users/nekisse/Documents/gitblog/img/2018-09-20/arraylist_linkedlist.png)
+![arraylist_linkedlist](/img/2018-09-20/arraylist_linkedlist.png)
 
 
 
