@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Architecture? 아키텍처?"
-<!--subtitle:   "프로그램, 메모리, 프로세스,프로그래밍 언어"-->
+subtitle:   ""
 date:       2019-02-12 12:00:00
 author:     "Nekisse"
 header-img: "img/post-bg-02.jpg"
